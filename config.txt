@@ -1,0 +1,6 @@
+owner=423793817624379392
+prefix=!
+game=MOA
+stayinchannel=true
+songinstatus=false
+token=NTY0MTkyOTA0NzQyOTYxMTcz.XKkTvQ.vgdJ7vQpnPRh_sUNZLDOiNqAHHE
